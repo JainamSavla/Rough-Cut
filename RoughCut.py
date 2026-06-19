@@ -99,8 +99,8 @@ FORMATS = [
 ]
 
 APP_VERSION = "2.5"          # keep in sync with installer/Rough Cut.iss MyAppVersion
-GITHUB_REPO = "JainamSavla/Rough Cut"
-SITE_URL = "https://JainamSavla.github.io/Rough Cut/"
+GITHUB_REPO = "JainamSavla/Rough-Cut"
+SITE_URL = "https://JainamSavla.github.io/Rough-Cut/"
 REPO_URL = f"https://github.com/{GITHUB_REPO}"
 RELEASES_URL = f"{REPO_URL}/releases"
 LATEST_API = f"https://api.github.com/repos/{GITHUB_REPO}/releases/latest"
