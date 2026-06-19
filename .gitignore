@@ -1,0 +1,22 @@
+# PyInstaller / Python build artifacts
+build/
+dist/
+portable/
+/Rough Cut/
+installer/staging/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Editor lock files (e.g. Affinity Designer)
+*~lock~
+
+# Brainstorming visual-companion sessions
+.superpowers/
+
+# These can contain machine-specific absolute paths
+*.log
+
+# Bundled native libs fetched per-machine (like ffmpeg, not committed)
+libmpv-2.dll
+*.dll
